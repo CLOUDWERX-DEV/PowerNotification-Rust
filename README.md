@@ -1,5 +1,7 @@
 # Power Notification
 
+![CLOUDWERX LAB Logo](/logo.png)
+
 **By CLOUDWERX LAB** | *Digital Food for the Analog Soul*
 
 A lightweight Rust application that monitors AC power status and displays desktop notifications on Linux.
